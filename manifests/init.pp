@@ -1,4 +1,4 @@
-class suse_cis_enforcement (
+class secure_cis_linux (
    
 ) {
 }
