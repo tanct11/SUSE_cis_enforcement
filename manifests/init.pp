@@ -1,4 +1,4 @@
-class secure_cis_linux (
+class secure_linux_cis (
    
 ) {
 }
